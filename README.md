@@ -16,7 +16,6 @@
   - [Install](#install)
   - [Usage](#usage)
   - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -72,7 +71,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](N/A)
+- [Coming soon](N/A)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -97,7 +96,7 @@ Example command:
 
 ### Setup
 
-Clone this repository to your desired folder:
+Clone this repository to your desired folder:git clone https://github.com/maanikandan/Hello-MicroVerse.git
 
 <!--
 Example commands:
@@ -125,6 +124,8 @@ Example command:
 
 To run the project, execute the following command:
 
+index.html
+
 <!--
 Example command:
 
@@ -145,19 +146,6 @@ Example command:
 ```
 --->
 
-### Deployment
-
-You can deploy this project using:
-
-<!--
-Example:
-
-```sh
-
-```
- -->
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
 
@@ -166,7 +154,9 @@ Example:
 
 👤 **ManiKandan**
 
-- GitHub: [@githubhandle](https://github.com/maanikandan)
+- GitHub: [ManiKandan](https://github.com/maanikandan)
+- Twitter: [@MANOSMRT](https://twitter.com/MANOSMRT)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/manikandan-p-04395093/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
